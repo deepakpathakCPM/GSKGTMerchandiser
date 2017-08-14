@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GSKGTMER/GSKGTMER.iml" filepath="$PROJECT_DIR$/GSKGTMER/GSKGTMER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GSKGTMerchandiser.iml" filepath="$PROJECT_DIR$/GSKGTMerchandiser.iml" />
+    </modules>
+  </component>
+</project>
